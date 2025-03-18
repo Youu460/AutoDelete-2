@@ -1,6 +1,6 @@
 # AutoDelete
 Telegram bot to delete messages after specific time 
-[![AutoDelete](https://te.legra.ph/file/e0e4b5df761aa6e9916b2.png)](https://github.com/arun017s/AutoDelete)
+<img src="https://envs.sh/I6s.jpg" alt="autodelete_bot">
 
 ## Variables
 1. `API_ID` : Get from [my.telegram.org](https://my.telegram.org)
