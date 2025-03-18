@@ -22,9 +22,9 @@ API_ID       = int(os.environ.get("API_ID", "11824466"))
 API_HASH     = os.environ.get("API_HASH", "5afd3ea9d0018ed654ae39a87aee62c7")
 BOT_TOKEN    = os.environ.get("BOT_TOKEN", "7866098326:AAEOvwWtiCYwRY_m5PqWfeNQG3OpcNBC9DE")
 SESSION      = os.environ.get("SESSION", "BQHFYKwAWfbfFed5GkMxqZrM6hmxNS2VJqh_tIxTToIxMA1AjSAbHY5VMqnUuDEx1g2BcVI3oYHzf0laOxtlMWZpHtGzaH1PiaMKrxamW0NI__iZ71GregM3GyYozXPR7hBu4odKvFZjk6g6Jn4CR1Piso32Z2WGRBA0gKOklTJqyMMJYXNKDHo_j2bH7fkFHE_sDBGJ8wkAIietDYWtQZPqcKux7cqhMXGjxLnd1y-UVpYcJaWKLMmvRUXH0PCSF_sGtGGddwt8amM3I6HcipUOc_SJFGPaySt0GiKE0q2ya9jhJYLbOq2KvSOqeNX7EOjrlSg_-LrIMgHAcEGGxqRetBvktQAAAAF_BT63AA")
-TIME         = int(os.environ.get("TIME", 10))
-CHATS        = [int(cht) for cht in os.environ.get("CHATS", "-1001605382205").split()]
+TIME         = int(os.environ.get("TIME", 5))
+CHATS        = [int(cht) for cht in os.environ.get("CHATS", "-1002354084757").split()]
 WHITE_LIST   = [int(wht) for wht in os.environ.get("WHITE_LIST", "").split()]
 BLACK_LIST   = [int(blk) for blk in os.environ.get("BLACK_LIST", "").split()]
-DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://satanmaman:satanmaman@satanmaman.hsumwsj.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://lisafiledata:lisafiledata@cluster0.hacp4.mongodb.net/")
 PORT         = os.environ.get("PORT", "8080")
